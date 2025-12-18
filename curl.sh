@@ -1,4 +1,4 @@
-curl -s curl 'https://exc.10khits.com/surf?id=751121&token=a4460159568848c6b65fee4d12d06af3' \
+curl -s 'https://exc.10khits.com/surf?id=751121&token=a4460159568848c6b65fee4d12d06af3' \
   -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
   -H 'accept-language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6,mr;q=0.5,la;q=0.4' \
   -H 'cache-control: no-cache' \
