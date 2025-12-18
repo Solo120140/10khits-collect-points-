@@ -1,1 +1,17 @@
-curl -s 
+curl -s curl 'https://exc.10khits.com/surf?id=751121&token=a4460159568848c6b65fee4d12d06af3' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6,mr;q=0.5,la;q=0.4' \
+  -H 'cache-control: no-cache' \
+  -b '10khits_cd=Dec+18%2C+2025+09%3A15%3A16; 10khits_notify=0; cf_clearance=6lkUMiASvKtEQPqi3K_zo0X6lzZhO2qFuww0qTXwsNI-1766077049-1.2.1.1-5o7su0QcIJXlqfkpJS9P7ndw44Ac35M.lEVwWvMm9Rg9Ju72.nZJMEqLTdt_zecv7P3l1hm9fnaE_oIvBty18wUcbH1xuZTgW51c9iYFuujQHD9TbS6t.MCc4v5fHl1meGaRjblYAs2KFyvdB_Wf9OQLucj6kmkF_Eg1x1mFEeqbF.rGm.CKbgrisyT9dnS8Ws.qY_DjajAtFQ.lwb50M.Rj9x8RHtgxKfZ8791AKlM; 10khits_remember=1; 10khits_session=NzUxMTIxOjYxMmVlNWRlZTYzMDBlYTRhNjA3OGMxYTBmOGFmNGIzOjYxZTE5OWRhNDQ5OGVmZDljYjkxMjEyMzA4NjIyMGYz; 10khits_token=ZWpMelEwZks5UjZuQjBoc3h5aXBEYk9TT0NLMDRVOWplVVQ0VjhPNTBWc0JWSjRzaW4%3D; PHPSESSID=1jp7932feti4k273lpddcumjl1; perf_dv6Tr4n=1' \
+  -H 'dnt: 1' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://exc.10khits.com/surf?id=751121&token=a4460159568848c6b65fee4d12d06af3' \
+  -H 'sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
